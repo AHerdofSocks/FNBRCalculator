@@ -1,0 +1,2 @@
+# FNBRCalculator
+Fortnite BR Calculator
